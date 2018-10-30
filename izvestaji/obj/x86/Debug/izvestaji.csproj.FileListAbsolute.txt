@@ -1,0 +1,16 @@
+x:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.Properties.Resources.resources
+x:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.csproj.GenerateResource.Cache
+x:\MILAN\StirMet\app\izvestaji\izvestaji\bin\Debug\izvestaji.exe
+x:\MILAN\StirMet\app\izvestaji\izvestaji\bin\Debug\izvestaji.pdb
+x:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.exe
+x:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.pdb
+X:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.csprojResolveAssemblyReference.cache
+x:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.formPracenje.resources
+d:\MILAN\StirMet\app\izvestaji\izvestaji\bin\Debug\izvestaji.exe.config
+d:\MILAN\StirMet\app\izvestaji\izvestaji\bin\Debug\izvestaji.exe
+d:\MILAN\StirMet\app\izvestaji\izvestaji\bin\Debug\izvestaji.pdb
+d:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.formPracenje.resources
+d:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.Properties.Resources.resources
+d:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.csproj.GenerateResource.Cache
+d:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.exe
+d:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.pdb

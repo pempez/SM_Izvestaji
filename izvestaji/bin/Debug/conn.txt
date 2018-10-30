@@ -1,0 +1,1 @@
+Server =E530\MSSQLSERVER2014; Database =SM; uid=sa; pwd=avgust;
