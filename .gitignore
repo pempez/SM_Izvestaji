@@ -34,3 +34,10 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+.vs/izvestaji/v15/.suo
+*.lock
+*.ide
+*.Cache
+*.ide-wal
+*.ide-shm
+*.cache

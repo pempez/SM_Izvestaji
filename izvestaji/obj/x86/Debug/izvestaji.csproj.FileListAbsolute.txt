@@ -17,9 +17,10 @@ d:\MILAN\StirMet\app\izvestaji\izvestaji\obj\x86\Debug\izvestaji.pdb
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\bin\Debug\izvestaji.exe.config
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\bin\Debug\izvestaji.exe
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\bin\Debug\izvestaji.pdb
-d:\MILAN\GitHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.csprojResolveAssemblyReference.cache
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.formPracenje.resources
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.Properties.Resources.resources
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.csproj.GenerateResource.Cache
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.exe
 d:\MILAN\GitHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.pdb
+d:\MILAN\GITHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.csprojAssemblyReference.cache
+d:\MILAN\GITHub\SM_Izvestaji\izvestaji\obj\x86\Debug\izvestaji.csproj.CoreCompileInputs.cache
